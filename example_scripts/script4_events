@@ -1,0 +1,5 @@
+{"service_name": "test", "tenant_id": "1000", "identity_id": "4024fea2-2c12-4343-bc20-9340d3add001", "entity_id": "37700", "timestamp": 1525770609}|null
+{"service_name": "test", "tenant_id": "1000", "identity_id": "4024fea2-2c12-4343-bc20-9340d3add001", "entity_id": "37777", "timestamp": 1525780609}|null
+{"service_name": "test", "tenant_id": "1000", "identity_id": "4024fea2-2c12-4343-bc20-9340d3add001", "entity_id": "38700", "timestamp": 1525790609}|{"f1": "I am entity D","f2": 7}
+{"service_name": "test", "tenant_id": "1000", "identity_id": "4024fea2-2c12-4343-bc20-9340d3add001", "entity_id": "38777", "timestamp": 1525800609}|{"f1": "I am entity E","f2": 8}
+{"service_name": "test", "tenant_id": "1000", "identity_id": "4024fea2-2c12-4343-bc20-9340d3add001", "entity_id": "38788", "timestamp": 1525810609}|{"f1": "I am entity F","f2": 9}

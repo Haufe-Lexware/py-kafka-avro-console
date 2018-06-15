@@ -1,0 +1,5 @@
+avro-python3
+confluent_kafka
+pykafka
+requests
+wheel
